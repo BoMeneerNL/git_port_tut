@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BoWebScript/BWS(-SSB) 1WVC Example
 
 ## About BWS 1WVCs Example
@@ -59,7 +58,3 @@ Twitter DM: BoMeneer
 
 
 ###### Disclaimer: Every inch of this repository is for an assignment there for all data is atleast outdated if not fake at point reading
-=======
-# html-freebie-portfolio-perfect
-One page template, a great choice for creating a personal portfolio website, including services, projects and contact form with nice and smooth scrolling through the sections. Modern and clean HTML5 template, perfect for your online CV.
->>>>>>> parent of d795a67... Update README.md
